@@ -1,0 +1,8 @@
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\bin\Debug\Aplicação04.exe.config
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\bin\Debug\Aplicação04.exe
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\bin\Debug\Aplicação04.pdb
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\obj\Debug\Aplicação04.csproj.AssemblyReference.cache
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\obj\Debug\Aplicação04.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\obj\Debug\Aplicação04.csproj.CoreCompileInputs.cache
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\obj\Debug\Aplicação04.exe
+C:\Users\vinni\source\repos\TerceiraSemana\Aplicação04\obj\Debug\Aplicação04.pdb
